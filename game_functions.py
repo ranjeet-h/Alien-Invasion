@@ -137,3 +137,5 @@ def update_aliens(ai_settings, aliens):
     """Update the position of all aliens in the fleet."""
     aliens.update()
 
+
+
